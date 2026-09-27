@@ -1,0 +1,85 @@
+endpoint_name,normalized_endpoint,state,voltage_kv,found,resolved_name,longitude,latitude,source,feature_id,feature_type,name_match,matched_alias,voltage_support,operator,operator_kind,source_file
+Adams Run,adams run,SC,46.0,True,Adams Run Substation,-80.35389155714286,32.71536331428571,osm,way/697675375,substation,exact,Adams Run,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Aiken PSA,aiken psa,SC,46.0,False,,,,,,,,,,,,
+Ashley River,ashley river,SC,115.0,False,,,,,,,,,,,,
+Batesburg,batesburg,SC,115.0,True,Batesburg Substation,-81.56445719999999,33.9136157,osm,way/178951280,substation,exact,Batesburg,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Bayfront,bayfront,SC,115.0,False,,,,,,,,,,,,
+Belv Sw Sta,belv switching station,SC,115.0,False,,,,,,,,,,,,
+Boone Hill,boone hill,SC,115.0,False,,,,,,,,,,,,
+Bush River,bush river,SC,115.0,False,,,,,,,,,,,,
+CAE Industrial Park,cae industrial park,SC,115.0,False,,,,,,,,,,,,
+Cainhoy,cainhoy,SC,115.0,True,Cainhoy Substation,-79.84246628,32.94147888,review_named_candidate,way/229116275,substation,exact,Cainhoy,match,Dominion Energy South Carolina,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Calhoun County,calhoun county,SC,46.0,False,,,,,,,,,,,,
+Cameron,cameron,SC,46.0,True,Cameron Substation,-80.70899576000001,33.56369214,osm,way/318318141,substation,exact,Cameron,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Cameron Jct,cameron junction,SC,46.0,True,Cameron Substation,-80.70899576000001,33.56369214,osm,way/318318141,substation,exact,Cameron Jct,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Camp Road,camp road,SC,115.0,False,,,,,,,,,,,,
+Canadys,canadys,SC,115.0,True,Canadys Substation,-80.620584935,33.064108925,osm,way/185032900,substation,exact,Canadys,match,South Carolina Electric & Gas Company,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Canadys,canadys,SC,230.0,True,Canadys Substation,-80.620584935,33.064108925,osm,way/185032900,substation,exact,Canadys,match,South Carolina Electric & Gas Company,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Church Creek,church creek,SC,115.0,True,Church Creek Substation,-80.07053406,32.83037728,review_named_candidate,way/185330726,substation,exact,Church Creek,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Church Creek,church creek,SC,230.0,True,Church Creek Substation,-80.07053406,32.83037728,review_named_candidate,way/185330726,substation,exact,Church Creek,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Coit,coit,SC,33.0,False,,,,,,,,,,,,
+Dawson,dawson,SC,230.0,False,,,,,,,,,,,,
+Denny Terrace,denny terrace,SC,230.0,True,Denny Terrace Substation,-81.06180854285715,34.05797029047619,osm,way/185130609,substation,exact,Denny Terrace,match,South Carolina Electric & Gas Company,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+DESCSQ #1151,descsq #1151,SC,115.0,False,,,,,,,,,,,,
+Duke/Progress Energy Tie,duke progress energy tie,SC,230.0,False,,,,,,,,,,,,
+Dunbar Road,dunbar road,SC,115.0,True,Dunbar Road Substation,-81.0855009875,33.9418768625,osm,way/185400354,substation,exact,Dunbar Road,match,South Carolina Gas & Electric,other,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Eastover,eastover,SC,115.0,False,,,,,,,,,,,,
+Edmund Switching Station,edmund switching station,SC,115.0,True,Edmund Substation,-81.20416172,33.85548812,osm,way/552694024,substation,exact,Edmund Switching Station,match,MCEC,other,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Elloree,elloree,SC,46.0,True,Elloree Substation,-80.5797323,33.53240722,osm,way/1075509549,substation,exact,Elloree,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Faber Place,faber place,SC,115.0,True,Faber Place Substation,-80.01469519999999,32.850158936363634,review_named_candidate,way/217507829,substation,exact,Faber Place,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Faber Place,faber place,SC,230.0,True,Faber Place Substation,-80.01469519999999,32.850158936363634,review_named_candidate,way/217507829,substation,exact,Faber Place,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Frogmore Transmission,frogmore transmission,SC,115.0,True,Frogmore Substation,-80.57116921428572,32.39914888571429,osm,way/1064802545,substation,exact,Frogmore,match,South Carolina Electric & Gas,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Gills Creek,gills creek,SC,33.0,False,,,,,,,,,,,,
+Graniteville,graniteville,SC,115.0,False,,,,,,,,,,,,
+Hamlin,hamlin,SC,115.0,True,Hamlin Substation,-79.78829007777777,32.859866677777774,review_named_candidate,way/229116306,substation,exact,Hamlin,match,South Carolina Gas & Electric,other,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Holly Hill,holly hill,SC,115.0,True,Holly Hill Substation,-80.42129527142856,33.32596187142857,osm,way/1074661994,substation,exact,Holly Hill,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Hooks,hooks,SC,46.0,False,,,,,,,,,,,,
+Hooks,hooks,SC,115.0,False,,,,,,,,,,,,
+Hopkins,hopkins,SC,230.0,False,,,,,,,,,,,,
+James Island,james island,SC,115.0,False,,,,,,,,,,,,
+Jasper,jasper,SC,230.0,True,Jasper Substation,-81.12391115,32.36078561666667,review_named_candidate,way/185380597,substation,exact,Jasper,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Kilbourne Park,kilbourne park,SC,115.0,False,,,,,,,,,,,,
+Killian,killian,SC,230.0,False,,,,,,,,,,,,
+Ladson Jct,ladson junction,SC,230.0,False,,,,,,,,,,,,
+Long Savannah,long savannah,SC,230.0,False,,,,,,,,,,,,
+Lyles,lyles,SC,115.0,False,,,,,,,,,,,,
+Mateeba,mateeba,SC,230.0,False,,,,,,,,,,,,
+McCormick,mccormick,SC,46.0,True,McCormick Substation,-82.29287362,33.906592239999995,osm,way/1044493458,substation,exact,McCormick,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+McCormick,mccormick,SC,115.0,True,McCormick Substation,-82.29287362,33.906592239999995,osm,way/1044493458,substation,exact,McCormick,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+McIntosh,mcintosh,SC,115.0,True,MCINTOSH,-81.1753871788822,32.3518954822055,hifld_substation,151753,SUBSTATION,exact,McIntosh,match,,unknown,https://services.arcgis.com/HQ0xoN0EzDPBOEci/ArcGIS/rest/services/Substations/FeatureServer/0/query
+Modoc,modoc,SC,46.0,True,Modoc Substation,-82.20148034,33.736318419999996,osm,way/1074904620,substation,exact,Modoc,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Modoc,modoc,SC,115.0,True,Modoc Substation,-82.20148034,33.736318419999996,osm,way/1074904620,substation,exact,Modoc,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+North,north,SC,46.0,True,North Substation,-80.78624232,33.4684369,osm,way/185577977,substation,exact,North,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+North Bridge Terrace,north bridge terrace,SC,115.0,False,,,,,,,,,,,,
+Okatie,okatie,SC,115.0,False,,,,,,,,,,,,
+Orangeburg #1,orangeburg #1,SC,46.0,False,,,,,,,,,,,,
+Owens Corning,owens corning,SC,115.0,True,Owens Corning Switching Station,-82.65842334,34.438487359999996,osm,way/329065758,substation,exact,Owens Corning,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Parr,parr,SC,115.0,True,Parr Substation,-81.33092119999999,34.26407461666667,osm,way/504932099,substation,exact,Parr,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Pineland,pineland,SC,230.0,True,Pineland Substation,-81.1503723,32.61183378333333,osm,way/917253712,substation,exact,Pineland,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Ravenel,ravenel,SC,115.0,False,,,,,,,,,,,,
+Red House Road,red house road,SC,46.0,False,,,,,,,,,,,,
+Richland Mall GOAB,richland mall goab,SC,115.0,False,,,,,,,,,,,,
+Ritter,ritter,SC,115.0,False,,,,,,,,,,,,
+Ritter,ritter,SC,230.0,False,,,,,,,,,,,,
+St George,saint george,SC,115.0,True,Saint George Switching Station,-80.59201198,33.19957794,osm,way/1069480257,substation,exact,St George,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+St Helena,saint helena,SC,115.0,False,,,,,,,,,,,,
+St Matthews,saint matthews,SC,46.0,False,,,,,,,,,,,,
+Saluda County,saluda county,SC,115.0,False,,,,,,,,,,,,
+Saluda Hydro,saluda hydro,SC,115.0,True,Saluda Substation,-81.76628104,33.99736922,osm,way/1041743427,substation,exact,Saluda Hydro,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Santee,santee,SC,230.0,True,Santee Substation,-80.12533121666667,33.42343253333333,osm,way/184966103,substation,exact,Santee,conflict,Berkeley Electric Cooperative,other,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Santee City,santee city,SC,46.0,False,,,,,,,,,,,,
+Springdale,springdale,SC,115.0,True,Springdale Substation,-81.11788874,33.9820872,osm,way/185230439,substation,exact,Springdale,match,South Carolina Gas & Electric,other,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Stevens Creek,stevens creek,SC,115.0,True,Stevens Creek [HIFLD line-name cluster],-82.05347072744539,33.561547715903174,hifld_line_name_cluster,"[""102686"", ""110052"", ""116084"", ""130516"", ""140717"", ""146759"", ""150858"", ""163958"", ""165161"", ""165162"", ""171950""]",line_terminal_cluster,exact,Stevens Creek,match,,unknown,cached HIFLD line network
+Summerville,summerville,SC,115.0,False,,,,,,,,,,,,
+Sumter,sumter,SC,115.0,True,Sumter Substation,-80.32419173076923,33.89768390769231,osm,way/185032893,substation,exact,Sumter,conflict,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Toolebeck,toolebeck,SC,115.0,True,Toolebeck Substation,-81.66952166666667,33.53475078333333,osm,way/1073259467,substation,exact,Toolebeck,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Urquhart,urquhart,SC,46.0,True,Urquhart Station,-81.90996009,33.4337140875,osm,way/449466234,plant,exact,Urquhart,unknown,"Dominion Energy South Carolina, Inc",dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_plants_switchyards_overpass.json
+Urquhart,urquhart,SC,115.0,True,Urquhart Station,-81.90996009,33.4337140875,osm,way/449466234,plant,exact,Urquhart,unknown,"Dominion Energy South Carolina, Inc",dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_plants_switchyards_overpass.json
+VCS1,vcs1,SC,230.0,True,Virgil C. Summer Nuclear #1 Substation,-81.31488655,34.296250875,osm,way/185039621,substation,exact,Virgil C Summer Nuclear #1,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+VCS2,vcs2,SC,230.0,True,V C Summer [HIFLD line-name cluster],-81.31554913514717,34.29613620378007,hifld_line_name_cluster,"[""104893"", ""116653"", ""121351"", ""121382"", ""123154"", ""128275"", ""129881"", ""132685"", ""133221"", ""134263"", ""143430"", ""148554""]",line_terminal_cluster,exact,V C Summer,match,,unknown,cached HIFLD line network
+Ward,ward,SC,230.0,True,Ward Substation,-81.697591,33.87234272,osm,way/185197506,substation,exact,Ward,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Wateree,wateree,SC,230.0,True,Wateree Substation,-80.624076675,33.8265673875,osm,way/1082130490,substation,exact,Wateree,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Williams,williams,SC,230.0,True,Williams Substation,-79.93227472666666,33.017557106666665,osm,way/184867924,substation,exact,Williams,match,,unknown,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Winnsboro,winnsboro,SC,115.0,True,WINNESBORO,-81.1419156486637,34.3540894362372,hifld_substation,117202,SUBSTATION,typo,Winnsboro,match,,unknown,https://services.arcgis.com/HQ0xoN0EzDPBOEci/ArcGIS/rest/services/Substations/FeatureServer/0/query
+Yemassee,yemassee,SC,115.0,True,Yemassee Substation,-80.86364411538463,32.69718906923077,review_named_candidate,way/185317032,substation,exact,Yemassee,conflict,South Carolina Electric & Gas Company,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
+Yemassee,yemassee,SC,230.0,True,Yemassee Substation,-80.86364411538463,32.69718906923077,review_named_candidate,way/185317032,substation,exact,Yemassee,match,South Carolina Electric & Gas Company,dominion,C:\Users\sebas\PycharmProjects\Git\Project_secret_project\data\raw\osm\SC\power_substations_overpass.json
