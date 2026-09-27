@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gridlock"
+version = "0.1.0"
+description = "Power-grid project ingestion and analysis"
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+notebooks = ["pandas>=2.2", "pymupdf>=1.24", "requests>=2.32", "ipykernel>=6", "nbformat>=5", "nbclient>=0.10", "folium", "shapely>=2", "pyproj>=3"]
+dashboard = ["streamlit", "folium", "pandas", "requests>=2.32", "shapely>=2", "pyproj>=3", "streamlit-folium>=0.27"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
