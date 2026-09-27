@@ -1,0 +1,9 @@
+-e .
+
+streamlit
+pandas
+folium
+streamlit-folium
+requests
+shapely
+pyproj
